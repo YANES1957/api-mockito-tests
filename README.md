@@ -1,4 +1,4 @@
-# 🟠 API Mockito Testes 🚀
+# 🟠 API Mockito Testes 
 
 Este repositório contém um **projeto de exemplo em Java** com testes unitários avançados, utilizando **JUnit 5** e **Mockito**, aplicado a uma API simples de gerenciamento de usuários.  
 
@@ -115,11 +115,11 @@ Todos os testes seguem boas práticas de **isolamento**, **mocking** e **asserti
 
 
 
-### 🚀 Conclusão
+### 🟠 Conclusão
 
 Este projeto demonstra como **combinar JUnit 5 e Mockito** para criar **testes unitários avançados**, cobrindo todas as camadas de uma API, de forma organizada, intuitiva e escalável.  
 
-Com esta estrutura, é possível adicionar facilmente novos serviços, repositórios ou controllers, mantendo a **qualidade dos testes** e **controle completo das dependências**.
+Com esta estrutura, é possível adicionar facilmente novos serviços, repositórios ou controllers, mantendo a **qualidade dos testes** e **controle completo das dependências**. 🚀
 
 
 
